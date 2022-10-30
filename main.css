@@ -1,0 +1,42 @@
+/* Write your CSS code in this file */
+
+body{
+    background-color: blue;
+}
+
+header{
+    color:bisque;
+    font-size: x-large;
+    display:flex;
+    justify-content: center;
+
+}
+
+h1{
+    color: bisque;
+    font-size: larger;
+    font-weight:lighter;
+    display:flex;
+    justify-content: center;
+}
+
+.list {
+    color:azure;
+    font-weight: bolder;
+    font-size: 3em;
+    display:flex;
+    text-align: center;
+    flex-direction: column;
+}
+
+.imputSection {
+    display:flex;
+    justify-content: center;
+    padding-top: 2.5em;
+    height:2.5em;
+}
+
+button{
+    padding-left: .5em;
+    padding-right:.5em;
+}
